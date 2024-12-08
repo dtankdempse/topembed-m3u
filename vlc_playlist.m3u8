@@ -1,0 +1,611 @@
+#EXTM3U url-tvg="https://github.com/dtankdempse/topembed-m3u/raw/refs/heads/main/epg.xml"
+#EXTINF:-1 tvg-id="91e7e559ad" tvg-name="Santarem - Academica (Portugal)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",11:25 AM - Santarem - Academica (Portugal) - 11:25 AM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FCanal11%5BPortugal%5D
+#EXTINF:-1 tvg-id="67656f00bd" tvg-name="Osijek - Lokomotiva Zagreb (CLEAN FEED)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",11:30 AM - Osijek - Lokomotiva Zagreb (CLEAN FEED) - 11:30 AM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2Fex6950463
+#EXTINF:-1 tvg-id="7ed1423d2d" tvg-name="Hero World Challenge - Final round (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Events ➔ Other",11:30 AM - Hero World Challenge - Final round (UK) - 11:30 AM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsGolf%5BUK%5D
+#EXTINF:-1 tvg-id="573bcaf68d" tvg-name="Hero World Challenge - Final round (SouthAfrica)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Events ➔ Other",11:30 AM - Hero World Challenge - Final round (SouthAfrica) - 11:30 AM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSuperSportGolf%5BSouthAfrica%5D
+#EXTINF:-1 tvg-id="d0f6222e05" tvg-name="Hero World Challenge - Final round (Australia)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Events ➔ Other",11:30 AM - Hero World Challenge - Final round (Australia) - 11:30 AM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FFox503%5BAustralia%5D
+#EXTINF:-1 tvg-id="8efa1bdbc3" tvg-name="Hero World Challenge - Final round (NewZealand)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Events ➔ Other",11:30 AM - Hero World Challenge - Final round (NewZealand) - 11:30 AM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport6%5BNewZealand%5D
+#EXTINF:-1 tvg-id="003dc13147" tvg-name="Krasnodar - Lokomotiv Moscow (Serbia)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",11:30 AM - Krasnodar - Lokomotiv Moscow (Serbia) - 11:30 AM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FArenaSport8%5BSerbia%5D
+#EXTINF:-1 tvg-id="9e7a24aea1" tvg-name="TSG Hoffenheim - Freiburg (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",11:30 AM - TSG Hoffenheim - Freiburg (UK) - 11:30 AM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsFootball%5BUK%5D
+#EXTINF:-1 tvg-id="a01636d65d" tvg-name="TSG Hoffenheim - Freiburg (CLEAN FEED)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",11:30 AM - TSG Hoffenheim - Freiburg (CLEAN FEED) - 11:30 AM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2Fex6691996
+#EXTINF:-1 tvg-id="607bb7b3c9" tvg-name="Tottenham Hotspur - Chelsea (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",11:30 AM - Tottenham Hotspur - Chelsea (UK) - 11:30 AM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsMainEvent%5BUK%5D
+#EXTINF:-1 tvg-id="607bb7b3c9" tvg-name="Tottenham Hotspur - Chelsea (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",11:30 AM - Tottenham Hotspur - Chelsea (UK) - 11:30 AM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsPremierLeague%5BUK%5D
+#EXTINF:-1 tvg-id="35be670cc1" tvg-name="Tottenham Hotspur - Chelsea (USA)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",11:30 AM - Tottenham Hotspur - Chelsea (USA) - 11:30 AM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FUSANetwork%5BUSA%5D
+#EXTINF:-1 tvg-id="67763f1d4b" tvg-name="Tottenham Hotspur - Chelsea (NewZealand)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",11:30 AM - Tottenham Hotspur - Chelsea (NewZealand) - 11:30 AM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport8%5BNewZealand%5D
+#EXTINF:-1 tvg-id="73a7cf68c6" tvg-name="Tottenham Hotspur - Chelsea (Arab)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",11:30 AM - Tottenham Hotspur - Chelsea (Arab) - 11:30 AM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FBeinSports1%5BArab%5D
+#EXTINF:-1 tvg-id="c350608e95" tvg-name="Espanyol W - Valencia W (Spain)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",11:50 AM - Espanyol W - Valencia W (Spain) - 11:50 AM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FDAZN2%5BSpain%5D
+#EXTINF:-1 tvg-id="05a6fe4500" tvg-name="Men's giant slalom from Beaver Creek, Colorado (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Events ➔ Other",11:55 AM - Men's giant slalom from Beaver Creek, Colorado (UK) - 11:55 AM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FEurosport1%5BUK%5D
+#EXTINF:-1 tvg-id="b80231dd78" tvg-name="Fuchse Berlin - Magdeburg (CLEAN FEED)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Events ➔ Other",12:00 PM - Fuchse Berlin - Magdeburg (CLEAN FEED) - 12:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2Fex7016651
+#EXTINF:-1 tvg-id="a97497b6b4" tvg-name="Seton Hall - Oklahoma State (USA)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",12:00 PM - Seton Hall - Oklahoma State (USA) - 12:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FFOXSports1%5BUSA%5D
+#EXTINF:-1 tvg-id="79aaeecf14" tvg-name="Auburn - Richmond (USA)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",12:00 PM - Auburn - Richmond (USA) - 12:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSECNetwork%5BUSA%5D
+#EXTINF:-1 tvg-id="64416c0827" tvg-name="Venezia - Como (Portugal)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",12:00 PM - Venezia - Como (Portugal) - 12:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportTV3%5BPortugal%5D
+#EXTINF:-1 tvg-id="4edc8fe29d" tvg-name="Venezia - Como (SouthAfrica)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",12:00 PM - Venezia - Como (SouthAfrica) - 12:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSuperSportFootball%5BSouthAfrica%5D
+#EXTINF:-1 tvg-id="5a5aaf6dc0" tvg-name="Purdue - Maryland (USA)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",12:00 PM - Purdue - Maryland (USA) - 12:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FBTN%5BUSA%5D
+#EXTINF:-1 tvg-id="8c8b18d701" tvg-name="Finals (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Events ➔ Other",12:00 PM - Finals (UK) - 12:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FBlaze%5BUK%5D
+#EXTINF:-1 tvg-id="b08113be80" tvg-name="Bristol vs Leinster (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/rugby.png?raw=true" group-title="Events ➔ Rugby",12:15 PM - Bristol vs Leinster (UK) - 12:15 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FPremierSports1%5BUK%5D
+#EXTINF:-1 tvg-id="d31892e713" tvg-name="Anaitasuna - Bidasoa Irun (CLEAN FEED)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Events ➔ Other",12:30 PM - Anaitasuna - Bidasoa Irun (CLEAN FEED) - 12:30 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2Fex7031092
+#EXTINF:-1 tvg-id="944064f22d" tvg-name="Osasuna - Alaves (SouthAfrica)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",12:30 PM - Osasuna - Alaves (SouthAfrica) - 12:30 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSuperSportLaLiga%5BSouthAfrica%5D
+#EXTINF:-1 tvg-id="3333e82eee" tvg-name="Osasuna - Alaves (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",12:30 PM - Osasuna - Alaves (UK) - 12:30 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FLaLigaTV%5BUK%5D
+#EXTINF:-1 tvg-id="b6bd1b331b" tvg-name="Osasuna - Alaves (USA)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",12:30 PM - Osasuna - Alaves (USA) - 12:30 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FESPNDeportes%5BUSA%5D
+#EXTINF:-1 tvg-id="3311c49734" tvg-name="Real Madrid - Unicaja (Spain)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",12:30 PM - Real Madrid - Unicaja (Spain) - 12:30 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FMovistarDeportes%5BSpain%5D
+#EXTINF:-1 tvg-id="84436de4f2" tvg-name="TCU - Vanderbilt (USA)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",12:30 PM - TCU - Vanderbilt (USA) - 12:30 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FESPNU%5BUSA%5D
+#EXTINF:-1 tvg-id="c87595d028" tvg-name="Chaves - FC Porto B (Portugal)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",12:55 PM - Chaves - FC Porto B (Portugal) - 12:55 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportTV2%5BPortugal%5D
+#EXTINF:-1 tvg-id="062a465d85" tvg-name="Missouri - Kansas (USA)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",01:00 PM - Missouri - Kansas (USA) - 01:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FESPN2%5BUSA%5D
+#EXTINF:-1 tvg-id="71ef1ed526" tvg-name="Minnesota Vikings - Atlanta Falcons (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/am-football.png?raw=true" group-title="Events ➔ Am. Football",01:00 PM - Minnesota Vikings - Atlanta Falcons (UK) - 01:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsAction%5BUK%5D
+#EXTINF:-1 tvg-id="b1af5d10d8" tvg-name="Minnesota Vikings - Atlanta Falcons (Portugal)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/am-football.png?raw=true" group-title="Events ➔ Am. Football",01:00 PM - Minnesota Vikings - Atlanta Falcons (Portugal) - 01:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportTV4%5BPortugal%5D
+#EXTINF:-1 tvg-id="9bd253f6ca" tvg-name="New York Giants - New Orleans Saints (CLEAN FEED)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/am-football.png?raw=true" group-title="Events ➔ Am. Football",01:00 PM - New York Giants - New Orleans Saints (CLEAN FEED) - 01:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2Fexnfl1
+#EXTINF:-1 tvg-id="027a14a230" tvg-name="Zeleznicar Pancevo - Partizan (Serbia)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",01:00 PM - Zeleznicar Pancevo - Partizan (Serbia) - 01:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FArenaPremium1%5BSerbia%5D
+#EXTINF:-1 tvg-id="0d5bec0727" tvg-name="Miami Dolphins - New York Jets (Canada)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/am-football.png?raw=true" group-title="Events ➔ Am. Football",01:00 PM - Miami Dolphins - New York Jets (Canada) - 01:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTSN4%5BCanada%5D
+#EXTINF:-1 tvg-id="9495e74c48" tvg-name="Miami Dolphins - New York Jets (USA)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/am-football.png?raw=true" group-title="Events ➔ Am. Football",01:00 PM - Miami Dolphins - New York Jets (USA) - 01:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FCBSNY%5BUSA%5D
+#EXTINF:-1 tvg-id="84d3684fc6" tvg-name="Redzone (USA)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/am-football.png?raw=true" group-title="Events ➔ Am. Football",01:00 PM - Redzone (USA) - 01:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FNFLRedzone%5BUSA%5D
+#EXTINF:-1 tvg-id="7d311cd3be" tvg-name="Maine Celtics - Greensboro Swarm (USA)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",01:00 PM - Maine Celtics - Greensboro Swarm (USA) - 01:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FNBCSBoston%5BUSA%5D
+#EXTINF:-1 tvg-id="6f42d6d0a7" tvg-name="Chaves - Porto B (CLEAN FEED)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",01:00 PM - Chaves - Porto B (CLEAN FEED) - 01:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2Fex7042421
+#EXTINF:-1 tvg-id="0589f36ff7" tvg-name="Chicago Bulls - Philadelphia 76ers (USA)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",01:00 PM - Chicago Bulls - Philadelphia 76ers (USA) - 01:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FNBCSPhiladelphia%5BUSA%5D
+#EXTINF:-1 tvg-id="db8b78b78e" tvg-name="Casa Pia - AVS (CLEAN FEED)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",01:00 PM - Casa Pia - AVS (CLEAN FEED) - 01:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2Fex6696773
+#EXTINF:-1 tvg-id="0d93f4c717" tvg-name="Casa Pia - AVS (Portugal)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",01:00 PM - Casa Pia - AVS (Portugal) - 01:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportTV1%5BPortugal%5D
+#EXTINF:-1 tvg-id="f17fd4a25f" tvg-name="Philadelphia Eagles - Carolina Panthers (CLEAN FEED)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/am-football.png?raw=true" group-title="Events ➔ Am. Football",01:00 PM - Philadelphia Eagles - Carolina Panthers (CLEAN FEED) - 01:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FexNFL6
+#EXTINF:-1 tvg-id="f17fd4a25f" tvg-name="Philadelphia Eagles - Carolina Panthers (CLEAN FEED)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/am-football.png?raw=true" group-title="Events ➔ Am. Football",01:00 PM - Philadelphia Eagles - Carolina Panthers (CLEAN FEED) - 01:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FexNFL7
+#EXTINF:-1 tvg-id="d9e65ee7d5" tvg-name="Tennessee Titans - Jacksonville Jaguars (Canada)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/am-football.png?raw=true" group-title="Events ➔ Am. Football",01:00 PM - Tennessee Titans - Jacksonville Jaguars (Canada) - 01:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTSN4%5BCanada%5D
+#EXTINF:-1 tvg-id="b1ed4c9570" tvg-name="Tampa Bay Buccaneers - Las Vegas Raiders (CLEAN FEED)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/am-football.png?raw=true" group-title="Events ➔ Am. Football",01:00 PM - Tampa Bay Buccaneers - Las Vegas Raiders (CLEAN FEED) - 01:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2Fexnfl3
+#EXTINF:-1 tvg-id="334f0f9227" tvg-name="Pittsburgh Steelers - Cleveland Browns (Mexico)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/am-football.png?raw=true" group-title="Events ➔ Am. Football",01:00 PM - Pittsburgh Steelers - Cleveland Browns (Mexico) - 01:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FFOXSports1%5BMexico%5D
+#EXTINF:-1 tvg-id="dba1119497" tvg-name="Lamia - Panetolikos (Greece)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",01:30 PM - Lamia - Panetolikos (Greece) - 01:30 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FCosmoteSport1%5BGreece%5D
+#EXTINF:-1 tvg-id="fde6bbb4d9" tvg-name="FCSB - Botosani (CLEAN FEED)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",01:30 PM - FCSB - Botosani (CLEAN FEED) - 01:30 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2Fex6692022
+#EXTINF:-1 tvg-id="7bb3e1ac88" tvg-name="Gremio - Corinthians (Netherlands)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",01:55 PM - Gremio - Corinthians (Netherlands) - 01:55 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FESPN1%5BNetherlands%5D
+#EXTINF:-1 tvg-id="956e381159" tvg-name="SCU Torreense - Academico Viseu (CLEAN FEED)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",02:00 PM - SCU Torreense - Academico Viseu (CLEAN FEED) - 02:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2Fex7042424
+#EXTINF:-1 tvg-id="0fd7bf07fe" tvg-name="UD Oliveirense - Alverca (CLEAN FEED)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",02:00 PM - UD Oliveirense - Alverca (CLEAN FEED) - 02:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2Fex7042423
+#EXTINF:-1 tvg-id="60b61332c5" tvg-name="Raptors 905 - Westchester (USA)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",02:00 PM - Raptors 905 - Westchester (USA) - 02:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FNBATV%5BUSA%5D
+#EXTINF:-1 tvg-id="987b79a9ae" tvg-name="Saint-Étienne - Olympique Marseille (Portugal)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",02:45 PM - Saint-Étienne - Olympique Marseille (Portugal) - 02:45 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportTV4%5BPortugal%5D
+#EXTINF:-1 tvg-id="a04540213b" tvg-name="Saint-Étienne - Olympique Marseille (Arab)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",02:45 PM - Saint-Étienne - Olympique Marseille (Arab) - 02:45 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FBeinSports2%5BArab%5D
+#EXTINF:-1 tvg-id="59d187de45" tvg-name="Men's giant slalom - 2nd run - from Beaver Creek, Colorado (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Events ➔ Other",02:45 PM - Men's giant slalom - 2nd run - from Beaver Creek, Colorado (UK) - 02:45 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FEurosport1%5BUK%5D
+#EXTINF:-1 tvg-id="f96da1ce9d" tvg-name="Atletico Madrid - Sevilla  (SouthAfrica)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",03:00 PM - Atletico Madrid - Sevilla  (SouthAfrica) - 03:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSuperSportLaLiga%5BSouthAfrica%5D
+#EXTINF:-1 tvg-id="69f03bcf0d" tvg-name="Atletico Madrid - Sevilla  (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",03:00 PM - Atletico Madrid - Sevilla  (UK) - 03:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FLaLigaTV%5BUK%5D
+#EXTINF:-1 tvg-id="e822984dac" tvg-name="Atletico Madrid - Sevilla  (USA)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",03:00 PM - Atletico Madrid - Sevilla  (USA) - 03:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FESPNDeportes%5BUSA%5D
+#EXTINF:-1 tvg-id="2830dce1cb" tvg-name="Texas A&M - Texas Tech (USA)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",03:00 PM - Texas A&M - Texas Tech (USA) - 03:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FESPN2%5BUSA%5D
+#EXTINF:-1 tvg-id="8bda73f0aa" tvg-name="Brooklyn Nets - Milwaukee Bucks (USA)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",03:30 PM - Brooklyn Nets - Milwaukee Bucks (USA) - 03:30 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FYES%5BUSA%5D
+#EXTINF:-1 tvg-id="90389953c5" tvg-name="Vizela - Tondela (CLEAN FEED)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",03:30 PM - Vizela - Tondela (CLEAN FEED) - 03:30 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2Fex7042425
+#EXTINF:-1 tvg-id="2bb4f32451" tvg-name="Vizela - Tondela (Portugal)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",03:30 PM - Vizela - Tondela (Portugal) - 03:30 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportTV1%5BPortugal%5D
+#EXTINF:-1 tvg-id="3e7e9e5d00" tvg-name="Carabobo - Deportivo Tachira (CLEAN FEED)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",04:00 PM - Carabobo - Deportivo Tachira (CLEAN FEED) - 04:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2Fex7097846
+#EXTINF:-1 tvg-id="b7d88da4e9" tvg-name="Memphis - Arkansas State (USA)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",04:00 PM - Memphis - Arkansas State (USA) - 04:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FESPNU%5BUSA%5D
+#EXTINF:-1 tvg-id="49d276f12c" tvg-name="Los Angeles Rams - Buffalo Bills (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/am-football.png?raw=true" group-title="Events ➔ Am. Football",04:05 PM - Los Angeles Rams - Buffalo Bills (UK) - 04:05 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsAction%5BUK%5D
+#EXTINF:-1 tvg-id="49d276f12c" tvg-name="Los Angeles Rams - Buffalo Bills (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/am-football.png?raw=true" group-title="Events ➔ Am. Football",04:05 PM - Los Angeles Rams - Buffalo Bills (UK) - 04:05 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsMainEvent%5BUK%5D
+#EXTINF:-1 tvg-id="7e68882d8c" tvg-name="Los Angeles Rams - Buffalo Bills (USA)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/am-football.png?raw=true" group-title="Events ➔ Am. Football",04:05 PM - Los Angeles Rams - Buffalo Bills (USA) - 04:05 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FFoxNews%5BUSA%5D
+#EXTINF:-1 tvg-id="44684f452b" tvg-name="San Francisco 49ers - Chicago Bears (Mexico)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/am-football.png?raw=true" group-title="Events ➔ Am. Football",04:05 PM - San Francisco 49ers - Chicago Bears (Mexico) - 04:05 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FFOXSports2%5BMexico%5D
+#EXTINF:-1 tvg-id="cd3b74b326" tvg-name="Arizona Cardinals - Seattle Seahawks (Canada)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/am-football.png?raw=true" group-title="Events ➔ Am. Football",04:05 PM - Arizona Cardinals - Seattle Seahawks (Canada) - 04:05 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTSN4%5BCanada%5D
+#EXTINF:-1 tvg-id="ec42e29c4b" tvg-name="Arizona Cardinals - Seattle Seahawks (USA)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/am-football.png?raw=true" group-title="Events ➔ Am. Football",04:05 PM - Arizona Cardinals - Seattle Seahawks (USA) - 04:05 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FCBS%5BUSA%5D
+#EXTINF:-1 tvg-id="de94a43abe" tvg-name="New York Islanders - Ottawa Senators (Canada)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Events ➔ Other",05:00 PM - New York Islanders - Ottawa Senators (Canada) - 05:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTSN5%5BCanada%5D
+#EXTINF:-1 tvg-id="70dfb9c654" tvg-name="MOTD 2 (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",05:30 PM - MOTD 2 (UK) - 05:30 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FBBCOne%5BUK%5D
+#EXTINF:-1 tvg-id="24e16d8a9f" tvg-name="Columbus Blue Jackets - Winnipeg Jets (Canada)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Events ➔ Other",06:00 PM - Columbus Blue Jackets - Winnipeg Jets (Canada) - 06:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTSN3%5BCanada%5D
+#EXTINF:-1 tvg-id="576212ba21" tvg-name="Oregon - UCLA (USA)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",06:00 PM - Oregon - UCLA (USA) - 06:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FBTN%5BUSA%5D
+#EXTINF:-1 tvg-id="9882178176" tvg-name="Louisville - Duke (USA)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",06:00 PM - Louisville - Duke (USA) - 06:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FACCNetwork%5BUSA%5D
+#EXTINF:-1 tvg-id="8499a8d6e8" tvg-name="Denver Nuggets - Atlanta Hawks (Serbia)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",06:00 PM - Denver Nuggets - Atlanta Hawks (Serbia) - 06:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FArenaPremium1%5BSerbia%5D
+#EXTINF:-1 tvg-id="4991ca9ed3" tvg-name="Phoenix Suns - Orlando Magic (US)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",06:30 PM - Phoenix Suns - Orlando Magic (US) - 06:30 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FBallySportsFlorida%5BUS%5D
+#EXTINF:-1 tvg-id="19ae0c7db9" tvg-name="New Orleans Pelicans - San Antonio Spurs (Canada)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",07:00 PM - New Orleans Pelicans - San Antonio Spurs (Canada) - 07:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportsnetOne%5BCanada%5D
+#EXTINF:-1 tvg-id="22572a6127" tvg-name="Philadelphia Flyers - Utah (USA)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Events ➔ Other",07:30 PM - Philadelphia Flyers - Utah (USA) - 07:30 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FNBCSPhiladelphia%5BUSA%5D
+#EXTINF:-1 tvg-id="89a5dbe921" tvg-name="Kansas City Chiefs - Los Angeles Chargers (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/am-football.png?raw=true" group-title="Events ➔ Am. Football",08:00 PM - Kansas City Chiefs - Los Angeles Chargers (UK) - 08:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsAction%5BUK%5D
+#EXTINF:-1 tvg-id="89a5dbe921" tvg-name="Kansas City Chiefs - Los Angeles Chargers (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/am-football.png?raw=true" group-title="Events ➔ Am. Football",08:00 PM - Kansas City Chiefs - Los Angeles Chargers (UK) - 08:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsMainEvent%5BUK%5D
+#EXTINF:-1 tvg-id="ded0ad80c6" tvg-name="Kansas City Chiefs - Los Angeles Chargers (Canada)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/am-football.png?raw=true" group-title="Events ➔ Am. Football",08:00 PM - Kansas City Chiefs - Los Angeles Chargers (Canada) - 08:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTSN1%5BCanada%5D
+#EXTINF:-1 tvg-id="9db309284c" tvg-name="Cruz Azul - Club America (CLEAN FEED)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",08:00 PM - Cruz Azul - Club America (CLEAN FEED) - 08:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2Fex7121949
+#EXTINF:-1 tvg-id="8f5ab4ad67" tvg-name="Calgary Flames - Dallas Stars (Canada)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Events ➔ Other",08:00 PM - Calgary Flames - Dallas Stars (Canada) - 08:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportsnetOntario%5BCanada%5D
+#EXTINF:-1 tvg-id="8f5ab4ad67" tvg-name="Calgary Flames - Dallas Stars (Canada)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Events ➔ Other",08:00 PM - Calgary Flames - Dallas Stars (Canada) - 08:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportsnetEast%5BCanada%5D
+#EXTINF:-1 tvg-id="400c660731" tvg-name="Minnesota Timberwolves - Golden State Warriors (Canada)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",08:30 PM - Minnesota Timberwolves - Golden State Warriors (Canada) - 08:30 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTSN5%5BCanada%5D
+#EXTINF:-1 tvg-id="6e92ea7bda" tvg-name="Sacramento Kings - Utah Jazz (USA)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",09:00 PM - Sacramento Kings - Utah Jazz (USA) - 09:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FNBCSCalifornia%5BUSA%5D
+#EXTINF:-1 tvg-id="80bb50f087" tvg-name="Utah Jazz - Sacramento Kings (USA)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",09:00 PM - Utah Jazz - Sacramento Kings (USA) - 09:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FNBCSCalifornia%5BUSA%5D
+#EXTINF:-1 tvg-id="bcdca74586" tvg-name="Live Australian racing from Dubbo and Tuncurry (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Events ➔ Other",09:00 PM - Live Australian racing from Dubbo and Tuncurry (UK) - 09:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsRacing%5BUK%5D
+#EXTINF:-1 tvg-id="a454daa3c3" tvg-name="Portland Trail Blazers - Los Angeles Lakers (Canada)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",09:30 PM - Portland Trail Blazers - Los Angeles Lakers (Canada) - 09:30 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportsnetOne%5BCanada%5D
+#EXTINF:-1 tvg-id="2b55d62985" tvg-name="Australia vs India - 2nd Test - Day 4 (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/rugby.png?raw=true" group-title="Events ➔ Cricket",11:00 PM - Australia vs India - 2nd Test - Day 4 (UK) - 11:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTNTSports2%5BUK%5D
+#EXTINF:-1 tvg-id="58b56886aa" tvg-name="Australia vs India - 2nd Test - Day 4 (Australia)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/rugby.png?raw=true" group-title="Events ➔ Cricket",11:00 PM - Australia vs India - 2nd Test - Day 4 (Australia) - 11:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FFox501%5BAustralia%5D
+#EXTINF:-1 tvg-id="f2456f02e8" tvg-name="Australia vs India - 2nd Test - Day 4 (NewZealand)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/rugby.png?raw=true" group-title="Events ➔ Cricket",11:00 PM - Australia vs India - 2nd Test - Day 4 (NewZealand) - 11:00 PM - EST - (12/08/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport1%5BNewZealand%5D
+#EXTINF:-1 tvg-id="ec00395c1a" tvg-name="South Africa vs Sri Lanka - 2nd Test - Day 5 (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/rugby.png?raw=true" group-title="Events ➔ Cricket",02:30 AM - South Africa vs Sri Lanka - 2nd Test - Day 5 (UK) - 02:30 AM - EST - (12/09/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsCricket%5BUK%5D
+#EXTINF:-1 tvg-id="5e94557f01" tvg-name="South Africa vs Sri Lanka - 2nd Test - Day 5 (SouthAfrica)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/rugby.png?raw=true" group-title="Events ➔ Cricket",02:30 AM - South Africa vs Sri Lanka - 2nd Test - Day 5 (SouthAfrica) - 02:30 AM - EST - (12/09/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSuperSportCricket%5BSouthAfrica%5D
+#EXTINF:-1 tvg-id="246fa66f02" tvg-name="South Africa vs Sri Lanka - 2nd Test - Day 5 (USA)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/rugby.png?raw=true" group-title="Events ➔ Cricket",02:30 AM - South Africa vs Sri Lanka - 2nd Test - Day 5 (USA) - 02:30 AM - EST - (12/09/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FWillovTV%5BUSA%5D
+#EXTINF:-1 tvg-id="c493e06f6d" tvg-name="South Africa vs Sri Lanka - 2nd Test - Day 5 (Australia)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/rugby.png?raw=true" group-title="Events ➔ Cricket",02:30 AM - South Africa vs Sri Lanka - 2nd Test - Day 5 (Australia) - 02:30 AM - EST - (12/09/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FFox505%5BAustralia%5D
+#EXTINF:-1 tvg-id="60bf429d01" tvg-name="Lingfield, Newcastle and Wolverhapton racing action (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Events ➔ Other",07:00 AM - Lingfield, Newcastle and Wolverhapton racing action (UK) - 07:00 AM - EST - (12/09/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsRacing%5BUK%5D
+#EXTINF:-1 tvg-id="47e911bcee" tvg-name="Bylis - Partizani (Albania)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",07:30 AM - Bylis - Partizani (Albania) - 07:30 AM - EST - (12/09/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FRTSHSport%5BAlbania%5D
+#EXTINF:-1 tvg-id="c9b7ed4bf4" tvg-name="Scottish Open - Main table with Comms - Afternoon session (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Events ➔ Other",07:55 AM - Scottish Open - Main table with Comms - Afternoon session (UK) - 07:55 AM - EST - (12/09/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FEurosport1%5BUK%5D
+#EXTINF:-1 tvg-id="671097c499" tvg-name="Racing action today from Musselburgh (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Events ➔ Other",08:00 AM - Racing action today from Musselburgh (UK) - 08:00 AM - EST - (12/09/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FRacingTV%5BUK%5D
+#EXTINF:-1 tvg-id="040d893fda" tvg-name="Breaking NFL news and headline-making interviews (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/am-football.png?raw=true" group-title="Events ➔ Am. Football",08:00 AM - Breaking NFL news and headline-making interviews (UK) - 08:00 AM - EST - (12/09/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsAction%5BUK%5D
+#EXTINF:-1 tvg-id="92c1dd3426" tvg-name="AFC Hermannstadt - Otelul (Romania)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",10:30 AM - AFC Hermannstadt - Otelul (Romania) - 10:30 AM - EST - (12/09/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FDigiSport1%5BRomania%5D
+#EXTINF:-1 tvg-id="b62063f0d7" tvg-name="Hermannstadt - Otelul Galati (CLEAN FEED)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",10:30 AM - Hermannstadt - Otelul Galati (CLEAN FEED) - 10:30 AM - EST - (12/09/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2Fex6692021
+#EXTINF:-1 tvg-id="9213f7ca40" tvg-name="Kallithea - Levadiakos (Greece)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",10:30 AM - Kallithea - Levadiakos (Greece) - 10:30 AM - EST - (12/09/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FCosmoteSport1%5BGreece%5D
+#EXTINF:-1 tvg-id="b5ad3daa86" tvg-name="KF Tirana - Teuta (Albania)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",11:00 AM - KF Tirana - Teuta (Albania) - 11:00 AM - EST - (12/09/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FRTSHSport%5BAlbania%5D
+#EXTINF:-1 tvg-id="cc3a2c601e" tvg-name="Rapid Bucuresti - Petrolul Ploiesti (Romania)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",12:00 PM - Rapid Bucuresti - Petrolul Ploiesti (Romania) - 12:00 PM - EST - (12/09/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FPrimaSport3%5BRomania%5D
+#EXTINF:-1 tvg-id="c12adca561" tvg-name="U Cluj - CFR Cluj (CLEAN FEED)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",01:30 PM - U Cluj - CFR Cluj (CLEAN FEED) - 01:30 PM - EST - (12/09/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2Fex6692025
+#EXTINF:-1 tvg-id="1338459f7c" tvg-name="Ultimate Pool and the Mixed Pairs - Group 3 (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Events ➔ Other",01:30 PM - Ultimate Pool and the Mixed Pairs - Group 3 (UK) - 01:30 PM - EST - (12/09/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTNTSports1%5BUK%5D
+#EXTINF:-1 tvg-id="cdd330bca6" tvg-name="Jong Ajax - Graafschap (Netherlands)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",01:50 PM - Jong Ajax - Graafschap (Netherlands) - 01:50 PM - EST - (12/09/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FESPN1%5BNetherlands%5D
+#EXTINF:-1 tvg-id="74a2f3b45a" tvg-name="Jong Utrecht - Eindhoven FC (Netherlands)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",01:55 PM - Jong Utrecht - Eindhoven FC (Netherlands) - 01:55 PM - EST - (12/09/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FESPN3%5BNetherlands%5D
+#EXTINF:-1 tvg-id="a52854b2c0" tvg-name="Scottish Open - Main table with Comms - Evening  session (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Events ➔ Other",01:55 PM - Scottish Open - Main table with Comms - Evening  session (UK) - 01:55 PM - EST - (12/09/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FEurosport1%5BUK%5D
+#EXTINF:-1 tvg-id="6adcdb7751" tvg-name="Jong PSV - Roda (Netherlands)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",01:55 PM - Jong PSV - Roda (Netherlands) - 01:55 PM - EST - (12/09/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FESPN2%5BNetherlands%5D
+#EXTINF:-1 tvg-id="2951ae1643" tvg-name="West Ham United - Wolverhampton Wanderers (USA)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",03:00 PM - West Ham United - Wolverhampton Wanderers (USA) - 03:00 PM - EST - (12/09/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FUSANetwork%5BUSA%5D
+#EXTINF:-1 tvg-id="bf63e569d4" tvg-name="West Ham United - Wolves (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",03:00 PM - West Ham United - Wolves (UK) - 03:00 PM - EST - (12/09/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsMainEvent%5BUK%5D
+#EXTINF:-1 tvg-id="bf63e569d4" tvg-name="West Ham United - Wolves (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",03:00 PM - West Ham United - Wolves (UK) - 03:00 PM - EST - (12/09/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsPremierLeague%5BUK%5D
+#EXTINF:-1 tvg-id="6c3069f315" tvg-name="Amadora - Arouca (Portugal)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",03:05 PM - Amadora - Arouca (Portugal) - 03:05 PM - EST - (12/09/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportTV1%5BPortugal%5D
+#EXTINF:-1 tvg-id="3b30c298f4" tvg-name="Estrela Amadora - Arouca (CLEAN FEED)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",03:15 PM - Estrela Amadora - Arouca (CLEAN FEED) - 03:15 PM - EST - (12/09/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2Fex6696772
+#EXTINF:-1 tvg-id="e58af38bd5" tvg-name="Indiana - Minnesota (USA)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",06:30 PM - Indiana - Minnesota (USA) - 06:30 PM - EST - (12/09/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FBTN%5BUSA%5D
