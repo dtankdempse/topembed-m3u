@@ -1,0 +1,486 @@
+#EXTM3U url-tvg="https://github.com/dtankdempse/topembed-m3u/raw/refs/heads/main/epg.xml"
+#EXTINF:-1 tvg-id="4bd33d2f2b" tvg-name="United Arab Emirates - Kuwait (Serbia)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",12:30 PM - United Arab Emirates - Kuwait (Serbia) - 12:30 PM - EST - (12/24/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportklub1%5BSerbia%5D
+#EXTINF:-1 tvg-id="d0dfb1bd50" tvg-name="Watch all the highlights from the last round of URC (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/rugby.png?raw=true" group-title="Events ➔ Rugby",04:00 PM - Watch all the highlights from the last round of URC (UK) - 04:00 PM - EST - (12/24/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FPremierSports1%5BUK%5D
+#EXTINF:-1 tvg-id="d56ec88d2a" tvg-name="Formula 1 - Season Review - Bahrain to Abu Dhabi (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Events ➔ Other",04:00 PM - Formula 1 - Season Review - Bahrain to Abu Dhabi (UK) - 04:00 PM - EST - (12/24/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsF1%5BUK%5D
+#EXTINF:-1 tvg-id="9945a1619c" tvg-name="Highlights of the WSB action during rounds 3 and 4 (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Events ➔ Other",04:00 PM - Highlights of the WSB action during rounds 3 and 4 (UK) - 04:00 PM - EST - (12/24/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FEurosport2%5BUK%5D
+#EXTINF:-1 tvg-id="965130e641" tvg-name="Replay - Noach Blyden - Cherif Drame face off in main event (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/fighting.png?raw=true" group-title="Events ➔ MMA",05:00 PM - Replay - Noach Blyden - Cherif Drame face off in main event (UK) - 05:00 PM - EST - (12/24/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTNTSports3%5BUK%5D
+#EXTINF:-1 tvg-id="2e11cd5f60" tvg-name="Replay of Pereira - Prochazka2 and Ortega - Lopes (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Events ➔ Other",06:30 PM - Replay of Pereira - Prochazka2 and Ortega - Lopes (UK) - 06:30 PM - EST - (12/24/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTNTSports3%5BUK%5D
+#EXTINF:-1 tvg-id="44ef958b32" tvg-name="NFL news covering all 32 teams (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/am-football.png?raw=true" group-title="Events ➔ Am. Football",07:00 PM - NFL news covering all 32 teams (UK) - 07:00 PM - EST - (12/24/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsAction%5BUK%5D
+#EXTINF:-1 tvg-id="5707f46532" tvg-name="Nitrocross highlights of American racing series (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Events ➔ Other",08:00 PM - Nitrocross highlights of American racing series (UK) - 08:00 PM - EST - (12/24/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FPremierSports1%5BUK%5D
+#EXTINF:-1 tvg-id="26bbb6a91c" tvg-name="NXT (USA)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Events ➔ Other",08:00 PM - NXT (USA) - 08:00 PM - EST - (12/24/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FCW%5BUSA%5D
+#EXTINF:-1 tvg-id="ed73cc4b66" tvg-name="South Florida Bulls - San Jose State Spartans (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/am-football.png?raw=true" group-title="Events ➔ Am. Football",08:00 PM - South Florida Bulls - San Jose State Spartans (UK) - 08:00 PM - EST - (12/24/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsAction%5BUK%5D
+#EXTINF:-1 tvg-id="ed73cc4b66" tvg-name="South Florida Bulls - San Jose State Spartans (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/am-football.png?raw=true" group-title="Events ➔ Am. Football",08:00 PM - South Florida Bulls - San Jose State Spartans (UK) - 08:00 PM - EST - (12/24/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsMainEvent%5BUK%5D
+#EXTINF:-1 tvg-id="1cc8f2eabc" tvg-name="South Florida Bulls - San Jose State Spartans (USA)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/am-football.png?raw=true" group-title="Events ➔ Am. Football",08:00 PM - South Florida Bulls - San Jose State Spartans (USA) - 08:00 PM - EST - (12/24/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FESPN%5BUSA%5D
+#EXTINF:-1 tvg-id="e711e74823" tvg-name="Replay - Edwards - Muhammad and Aspinall - Blaydes (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Events ➔ Other",09:30 PM - Replay - Edwards - Muhammad and Aspinall - Blaydes (UK) - 09:30 PM - EST - (12/24/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTNTSports3%5BUK%5D
+#EXTINF:-1 tvg-id="913118c552" tvg-name="Northern Brave vs Auckland Aces (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/rugby.png?raw=true" group-title="Events ➔ Cricket",11:45 PM - Northern Brave vs Auckland Aces (UK) - 11:45 PM - EST - (12/24/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTNTSports3%5BUK%5D
+#EXTINF:-1 tvg-id="5ec1bf947f" tvg-name="Northern Brave vs Auckland Aces (SouthAfrica)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/rugby.png?raw=true" group-title="Events ➔ Cricket",11:45 PM - Northern Brave vs Auckland Aces (SouthAfrica) - 11:45 PM - EST - (12/24/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSuperSportAction%5BSouthAfrica%5D
+#EXTINF:-1 tvg-id="3385ae003e" tvg-name="Northern Brave vs Auckland Aces (Australia)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/rugby.png?raw=true" group-title="Events ➔ Cricket",11:45 PM - Northern Brave vs Auckland Aces (Australia) - 11:45 PM - EST - (12/24/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FFox505%5BAustralia%5D
+#EXTINF:-1 tvg-id="64e15fd580" tvg-name="Highlights of the WSB action during rounds 4 and 5 (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Events ➔ Other",12:00 AM - Highlights of the WSB action during rounds 4 and 5 (UK) - 12:00 AM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FEurosport2%5BUK%5D
+#EXTINF:-1 tvg-id="46e35ac701" tvg-name="The Story so Far - all the highlights from the WDC from day 1 to day 9 (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Events ➔ Other",01:00 AM - The Story so Far - all the highlights from the WDC from day 1 to day 9 (UK) - 01:00 AM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsF1%5BUK%5D
+#EXTINF:-1 tvg-id="262c550b31" tvg-name="Highlights - Stage 5 of the Dakar Rally (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Events ➔ Other",02:00 AM - Highlights - Stage 5 of the Dakar Rally (UK) - 02:00 AM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FEurosport2%5BUK%5D
+#EXTINF:-1 tvg-id="498253bb20" tvg-name="Highlights - Stage 6 of the Dakar Rally (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Events ➔ Other",03:00 AM - Highlights - Stage 6 of the Dakar Rally (UK) - 03:00 AM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FEurosport2%5BUK%5D
+#EXTINF:-1 tvg-id="d56ec88d2a" tvg-name="Formula 1 - Season Review - Bahrain to Abu Dhabi (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Events ➔ Other",04:00 AM - Formula 1 - Season Review - Bahrain to Abu Dhabi (UK) - 04:00 AM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsMainEvent%5BUK%5D
+#EXTINF:-1 tvg-id="2d4e5c638f" tvg-name="Sydney - Illawarra Hawks (Serbia)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",04:30 AM - Sydney - Illawarra Hawks (Serbia) - 04:30 AM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportklub2%5BSerbia%5D
+#EXTINF:-1 tvg-id="c5edb0a944" tvg-name="How Liverpools club culture underpinned the club's success (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",04:45 AM - How Liverpools club culture underpinned the club's success (UK) - 04:45 AM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTNTSports2%5BUK%5D
+#EXTINF:-1 tvg-id="78eb035a6f" tvg-name="Formula 1 Grand Prix Highlights 2024 (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Events ➔ Other",06:00 AM - Formula 1 Grand Prix Highlights 2024 (UK) - 06:00 AM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsMix%5BUK%5D
+#EXTINF:-1 tvg-id="5c3c79cc96" tvg-name="Documentary exploring the lack of South Asian footballers (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",06:30 AM - Documentary exploring the lack of South Asian footballers (UK) - 06:30 AM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsFootball%5BUK%5D
+#EXTINF:-1 tvg-id="040d893fda" tvg-name="Breaking NFL news and headline-making interviews (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/am-football.png?raw=true" group-title="Events ➔ Am. Football",08:00 AM - Breaking NFL news and headline-making interviews (UK) - 08:00 AM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsAction%5BUK%5D
+#EXTINF:-1 tvg-id="056af49eb0" tvg-name="Saudi Arabia - Yemen (Serbia)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",09:20 AM - Saudi Arabia - Yemen (Serbia) - 09:20 AM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportklub1%5BSerbia%5D
+#EXTINF:-1 tvg-id="e57490cb19" tvg-name="Highlights - BSB 2024 - round 5 from Snetterton and round 6 from Brands Hatch (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Events ➔ Other",10:00 AM - Highlights - BSB 2024 - round 5 from Snetterton and round 6 from Brands Hatch (UK) - 10:00 AM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FEurosport2%5BUK%5D
+#EXTINF:-1 tvg-id="a957772bb4" tvg-name="Saratov - CSKA Moscow (Serbia)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",10:00 AM - Saratov - CSKA Moscow (Serbia) - 10:00 AM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FArenaPremium1%5BSerbia%5D
+#EXTINF:-1 tvg-id="f9b86094f0" tvg-name="Usyk - Fury 2 Reignited (UK)" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/boxing.PNG" group-title="Events ➔ Boxing",10:00 AM - Usyk - Fury 2 Reignited (UK) - 10:00 AM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTNTSports1%5BUK%5D
+#EXTINF:-1 tvg-id="1bb80891b5" tvg-name="New York Knicks - San Antonio Spurs (CLEAN FEED)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",12:00 PM - New York Knicks - San Antonio Spurs (CLEAN FEED) - 12:00 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2Fex6667421
+#EXTINF:-1 tvg-id="42d9a97448" tvg-name="New York Knicks - San Antonio Spurs (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",12:00 PM - New York Knicks - San Antonio Spurs (UK) - 12:00 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTNTSports1%5BUK%5D
+#EXTINF:-1 tvg-id="1b8d037a95" tvg-name="New York Knicks - San Antonio Spurs (Argentina)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",12:00 PM - New York Knicks - San Antonio Spurs (Argentina) - 12:00 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FESPN%5BArgentina%5D
+#EXTINF:-1 tvg-id="57c9e9aecd" tvg-name="New York Knicks - San Antonio Spurs (Canada)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",12:00 PM - New York Knicks - San Antonio Spurs (Canada) - 12:00 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTSN3%5BCanada%5D
+#EXTINF:-1 tvg-id="57c9e9aecd" tvg-name="New York Knicks - San Antonio Spurs (Canada)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",12:00 PM - New York Knicks - San Antonio Spurs (Canada) - 12:00 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTSN5%5BCanada%5D
+#EXTINF:-1 tvg-id="02d306285d" tvg-name="New York Knicks - San Antonio Spurs (Greece)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",12:00 PM - New York Knicks - San Antonio Spurs (Greece) - 12:00 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FCosmoteSport4%5BGreece%5D
+#EXTINF:-1 tvg-id="eb223b2424" tvg-name="New York Knicks - San Antonio Spurs (Netherlands)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",12:00 PM - New York Knicks - San Antonio Spurs (Netherlands) - 12:00 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FESPN3%5BNetherlands%5D
+#EXTINF:-1 tvg-id="eb223b2424" tvg-name="New York Knicks - San Antonio Spurs (Netherlands)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",12:00 PM - New York Knicks - San Antonio Spurs (Netherlands) - 12:00 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FESPN1%5BNetherlands%5D
+#EXTINF:-1 tvg-id="0af5dd8cc1" tvg-name="New York Knicks - San Antonio Spurs (Portugal)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",12:00 PM - New York Knicks - San Antonio Spurs (Portugal) - 12:00 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportTV1%5BPortugal%5D
+#EXTINF:-1 tvg-id="9625cfdc95" tvg-name="New York Knicks - San Antonio Spurs (Serbia)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",12:00 PM - New York Knicks - San Antonio Spurs (Serbia) - 12:00 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FArenaPremium1%5BSerbia%5D
+#EXTINF:-1 tvg-id="251444158a" tvg-name="New York Knicks - San Antonio Spurs (USA)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",12:00 PM - New York Knicks - San Antonio Spurs (USA) - 12:00 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FESPN2%5BUSA%5D
+#EXTINF:-1 tvg-id="251444158a" tvg-name="New York Knicks - San Antonio Spurs (USA)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",12:00 PM - New York Knicks - San Antonio Spurs (USA) - 12:00 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FESPN%5BUSA%5D
+#EXTINF:-1 tvg-id="8c63b216a1" tvg-name="The inside story of LFC 2019-2020 Premier League winning season (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",12:00 PM - The inside story of LFC 2019-2020 Premier League winning season (UK) - 12:00 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsFootball%5BUK%5D
+#EXTINF:-1 tvg-id="42597020bd" tvg-name="Bahrain - Iraq (Serbia)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",12:25 PM - Bahrain - Iraq (Serbia) - 12:25 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportklub1%5BSerbia%5D
+#EXTINF:-1 tvg-id="4ace1b9a2f" tvg-name="Pittsburgh Steelers - Kansas City Chiefs (Canada)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/am-football.png?raw=true" group-title="Events ➔ Am. Football",01:00 PM - Pittsburgh Steelers - Kansas City Chiefs (Canada) - 01:00 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTSN3%5BCanada%5D
+#EXTINF:-1 tvg-id="4ace1b9a2f" tvg-name="Pittsburgh Steelers - Kansas City Chiefs (Canada)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/am-football.png?raw=true" group-title="Events ➔ Am. Football",01:00 PM - Pittsburgh Steelers - Kansas City Chiefs (Canada) - 01:00 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTSN1%5BCanada%5D
+#EXTINF:-1 tvg-id="4ace1b9a2f" tvg-name="Pittsburgh Steelers - Kansas City Chiefs (Canada)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/am-football.png?raw=true" group-title="Events ➔ Am. Football",01:00 PM - Pittsburgh Steelers - Kansas City Chiefs (Canada) - 01:00 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTSN4%5BCanada%5D
+#EXTINF:-1 tvg-id="4ace1b9a2f" tvg-name="Pittsburgh Steelers - Kansas City Chiefs (Canada)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/am-football.png?raw=true" group-title="Events ➔ Am. Football",01:00 PM - Pittsburgh Steelers - Kansas City Chiefs (Canada) - 01:00 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTSN5%5BCanada%5D
+#EXTINF:-1 tvg-id="edd963a942" tvg-name="Pittsburgh Steelers - Kansas City Chiefs (Portugal)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/am-football.png?raw=true" group-title="Events ➔ Am. Football",01:00 PM - Pittsburgh Steelers - Kansas City Chiefs (Portugal) - 01:00 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FElevenSports1%5BPortugal%5D
+#EXTINF:-1 tvg-id="6b47077140" tvg-name="The story of how English football clubs struggled after the Heysel ban - 1985-1990 (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",01:30 PM - The story of how English football clubs struggled after the Heysel ban - 1985-1990 (UK) - 01:30 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTNTSports2%5BUK%5D
+#EXTINF:-1 tvg-id="91da3a0e22" tvg-name="An itimate portrayal of Sir Matt Busby (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",02:00 PM - An itimate portrayal of Sir Matt Busby (UK) - 02:00 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsFootball%5BUK%5D
+#EXTINF:-1 tvg-id="0844c385b3" tvg-name="European Fishing League - round 8 (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Events ➔ Other",02:00 PM - European Fishing League - round 8 (UK) - 02:00 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTNTSports4%5BUK%5D
+#EXTINF:-1 tvg-id="68560d110e" tvg-name="Dallas Mavericks - Minnesota Timberwolves (CLEAN FEED)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",02:30 PM - Dallas Mavericks - Minnesota Timberwolves (CLEAN FEED) - 02:30 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2Fex6667437
+#EXTINF:-1 tvg-id="d213c65d36" tvg-name="Dallas Mavericks - Minnesota Timberwolves (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",02:30 PM - Dallas Mavericks - Minnesota Timberwolves (UK) - 02:30 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTNTSports1%5BUK%5D
+#EXTINF:-1 tvg-id="7ef5df513d" tvg-name="Dallas Mavericks - Minnesota Timberwolves (Argentina)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",02:30 PM - Dallas Mavericks - Minnesota Timberwolves (Argentina) - 02:30 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FESPN%5BArgentina%5D
+#EXTINF:-1 tvg-id="c396982ea2" tvg-name="Dallas Mavericks - Minnesota Timberwolves (Canada)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",02:30 PM - Dallas Mavericks - Minnesota Timberwolves (Canada) - 02:30 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportsnetOntario%5BCanada%5D
+#EXTINF:-1 tvg-id="c396982ea2" tvg-name="Dallas Mavericks - Minnesota Timberwolves (Canada)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",02:30 PM - Dallas Mavericks - Minnesota Timberwolves (Canada) - 02:30 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportsnetWest%5BCanada%5D
+#EXTINF:-1 tvg-id="c396982ea2" tvg-name="Dallas Mavericks - Minnesota Timberwolves (Canada)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",02:30 PM - Dallas Mavericks - Minnesota Timberwolves (Canada) - 02:30 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportsnetEast%5BCanada%5D
+#EXTINF:-1 tvg-id="c396982ea2" tvg-name="Dallas Mavericks - Minnesota Timberwolves (Canada)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",02:30 PM - Dallas Mavericks - Minnesota Timberwolves (Canada) - 02:30 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportsnetPacific%5BCanada%5D
+#EXTINF:-1 tvg-id="c396982ea2" tvg-name="Dallas Mavericks - Minnesota Timberwolves (Canada)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",02:30 PM - Dallas Mavericks - Minnesota Timberwolves (Canada) - 02:30 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportsnetOne%5BCanada%5D
+#EXTINF:-1 tvg-id="0f85dcf4d0" tvg-name="Dallas Mavericks - Minnesota Timberwolves (Greece)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",02:30 PM - Dallas Mavericks - Minnesota Timberwolves (Greece) - 02:30 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FCosmoteSport8%5BGreece%5D
+#EXTINF:-1 tvg-id="a6e5943c6b" tvg-name="Dallas Mavericks - Minnesota Timberwolves (Netherlands)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",02:30 PM - Dallas Mavericks - Minnesota Timberwolves (Netherlands) - 02:30 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FESPN1%5BNetherlands%5D
+#EXTINF:-1 tvg-id="d883ff6a70" tvg-name="Dallas Mavericks - Minnesota Timberwolves (Portugal)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",02:30 PM - Dallas Mavericks - Minnesota Timberwolves (Portugal) - 02:30 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportTV1%5BPortugal%5D
+#EXTINF:-1 tvg-id="c37a3940c7" tvg-name="Dallas Mavericks - Minnesota Timberwolves (Serbia)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",02:30 PM - Dallas Mavericks - Minnesota Timberwolves (Serbia) - 02:30 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FArenaPremium1%5BSerbia%5D
+#EXTINF:-1 tvg-id="f5dc5b7a7b" tvg-name="Dallas Mavericks - Minnesota Timberwolves (Spain)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",02:30 PM - Dallas Mavericks - Minnesota Timberwolves (Spain) - 02:30 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FMovistarDeportes%5BSpain%5D
+#EXTINF:-1 tvg-id="bd69c465d7" tvg-name="Dallas Mavericks - Minnesota Timberwolves (USA)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",02:30 PM - Dallas Mavericks - Minnesota Timberwolves (USA) - 02:30 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FESPN%5BUSA%5D
+#EXTINF:-1 tvg-id="54492afa02" tvg-name="The transformation of Worthing FC by George Dowell (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",03:15 PM - The transformation of Worthing FC by George Dowell (UK) - 03:15 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTNTSports2%5BUK%5D
+#EXTINF:-1 tvg-id="6f96450cc3" tvg-name="Looking back at the footballers upbringing and fruitful career (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Events ➔ Football",04:00 PM - Looking back at the footballers upbringing and fruitful career (UK) - 04:00 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsFootball%5BUK%5D
+#EXTINF:-1 tvg-id="d9ea23abf9" tvg-name="Houston Texans - Baltimore Ravens (Canada)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/am-football.png?raw=true" group-title="Events ➔ Am. Football",04:30 PM - Houston Texans - Baltimore Ravens (Canada) - 04:30 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTSN1%5BCanada%5D
+#EXTINF:-1 tvg-id="d9ea23abf9" tvg-name="Houston Texans - Baltimore Ravens (Canada)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/am-football.png?raw=true" group-title="Events ➔ Am. Football",04:30 PM - Houston Texans - Baltimore Ravens (Canada) - 04:30 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTSN3%5BCanada%5D
+#EXTINF:-1 tvg-id="d9ea23abf9" tvg-name="Houston Texans - Baltimore Ravens (Canada)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/am-football.png?raw=true" group-title="Events ➔ Am. Football",04:30 PM - Houston Texans - Baltimore Ravens (Canada) - 04:30 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTSN5%5BCanada%5D
+#EXTINF:-1 tvg-id="d9ea23abf9" tvg-name="Houston Texans - Baltimore Ravens (Canada)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/am-football.png?raw=true" group-title="Events ➔ Am. Football",04:30 PM - Houston Texans - Baltimore Ravens (Canada) - 04:30 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTSN4%5BCanada%5D
+#EXTINF:-1 tvg-id="5887ab7c66" tvg-name="Boston Celtics - Philadelphia 76ers (CLEAN FEED)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",05:00 PM - Boston Celtics - Philadelphia 76ers (CLEAN FEED) - 05:00 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2Fex6667435
+#EXTINF:-1 tvg-id="8c11713a47" tvg-name="Boston Celtics - Philadelphia 76ers (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",05:00 PM - Boston Celtics - Philadelphia 76ers (UK) - 05:00 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTNTSports2%5BUK%5D
+#EXTINF:-1 tvg-id="b93e04a3f5" tvg-name="Boston Celtics - Philadelphia 76ers (Argentina)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",05:00 PM - Boston Celtics - Philadelphia 76ers (Argentina) - 05:00 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FESPN%5BArgentina%5D
+#EXTINF:-1 tvg-id="af48d2af67" tvg-name="Boston Celtics - Philadelphia 76ers (Canada)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",05:00 PM - Boston Celtics - Philadelphia 76ers (Canada) - 05:00 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportsnetPacific%5BCanada%5D
+#EXTINF:-1 tvg-id="af48d2af67" tvg-name="Boston Celtics - Philadelphia 76ers (Canada)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",05:00 PM - Boston Celtics - Philadelphia 76ers (Canada) - 05:00 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportsnetOntario%5BCanada%5D
+#EXTINF:-1 tvg-id="af48d2af67" tvg-name="Boston Celtics - Philadelphia 76ers (Canada)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",05:00 PM - Boston Celtics - Philadelphia 76ers (Canada) - 05:00 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportsnetWest%5BCanada%5D
+#EXTINF:-1 tvg-id="af48d2af67" tvg-name="Boston Celtics - Philadelphia 76ers (Canada)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",05:00 PM - Boston Celtics - Philadelphia 76ers (Canada) - 05:00 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportsnetOne%5BCanada%5D
+#EXTINF:-1 tvg-id="af48d2af67" tvg-name="Boston Celtics - Philadelphia 76ers (Canada)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",05:00 PM - Boston Celtics - Philadelphia 76ers (Canada) - 05:00 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportsnetEast%5BCanada%5D
+#EXTINF:-1 tvg-id="0a2de453e0" tvg-name="Boston Celtics - Philadelphia 76ers (Netherlands)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",05:00 PM - Boston Celtics - Philadelphia 76ers (Netherlands) - 05:00 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FESPN1%5BNetherlands%5D
+#EXTINF:-1 tvg-id="9c1b07677c" tvg-name="Boston Celtics - Philadelphia 76ers (Portugal)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",05:00 PM - Boston Celtics - Philadelphia 76ers (Portugal) - 05:00 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportTV1%5BPortugal%5D
+#EXTINF:-1 tvg-id="6fd443e183" tvg-name="Boston Celtics - Philadelphia 76ers (Serbia)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",05:00 PM - Boston Celtics - Philadelphia 76ers (Serbia) - 05:00 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FArenaPremium1%5BSerbia%5D
+#EXTINF:-1 tvg-id="457ae2c7c1" tvg-name="Boston Celtics - Philadelphia 76ers (Spain)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",05:00 PM - Boston Celtics - Philadelphia 76ers (Spain) - 05:00 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FMovistarDeportes%5BSpain%5D
+#EXTINF:-1 tvg-id="2182d2b4b3" tvg-name="Boston Celtics - Philadelphia 76ers (USA)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Events ➔ Basketball",05:00 PM - Boston Celtics - Philadelphia 76ers (USA) - 05:00 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FESPN%5BUSA%5D
+#EXTINF:-1 tvg-id="16b876c2c8" tvg-name="Replay - Du Plessis - Adesanya (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Events ➔ Other",05:00 PM - Replay - Du Plessis - Adesanya (UK) - 05:00 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTNTSports3%5BUK%5D
+#EXTINF:-1 tvg-id="8be1966730" tvg-name="Australia - India (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/rugby.png?raw=true" group-title="Events ➔ Cricket",06:30 PM - Australia - India (UK) - 06:30 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTNTSports2%5BUK%5D
+#EXTINF:-1 tvg-id="8be1966730" tvg-name="Australia - India (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/rugby.png?raw=true" group-title="Events ➔ Cricket",06:30 PM - Australia - India (UK) - 06:30 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTNTSports1%5BUK%5D
+#EXTINF:-1 tvg-id="6e06ce81ec" tvg-name="Australia - India (NewZealand)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/rugby.png?raw=true" group-title="Events ➔ Cricket",06:30 PM - Australia - India (NewZealand) - 06:30 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport1%5BNewZealand%5D
+#EXTINF:-1 tvg-id="6e06ce81ec" tvg-name="Australia - India (NewZealand)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/rugby.png?raw=true" group-title="Events ➔ Cricket",06:30 PM - Australia - India (NewZealand) - 06:30 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport3%5BNewZealand%5D
+#EXTINF:-1 tvg-id="9b026e3674" tvg-name="Australia - India (SouthAfrica)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/rugby.png?raw=true" group-title="Events ➔ Cricket",06:30 PM - Australia - India (SouthAfrica) - 06:30 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSuperSportCricket%5BSouthAfrica%5D
+#EXTINF:-1 tvg-id="9b026e3674" tvg-name="Australia - India (SouthAfrica)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/rugby.png?raw=true" group-title="Events ➔ Cricket",06:30 PM - Australia - India (SouthAfrica) - 06:30 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSuperSportGrandstand%5BSouthAfrica%5D
+#EXTINF:-1 tvg-id="90b2fcb10b" tvg-name="Australia - India - 4th Test - Day 1 (UK)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/rugby.png?raw=true" group-title="Events ➔ Cricket",06:30 PM - Australia - India - 4th Test - Day 1 (UK) - 06:30 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTNTSports1%5BUK%5D
+#EXTINF:-1 tvg-id="97223d3016" tvg-name="Australia - India - 4th Test - Day 1 (SouthAfrica)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/rugby.png?raw=true" group-title="Events ➔ Cricket",06:30 PM - Australia - India - 4th Test - Day 1 (SouthAfrica) - 06:30 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSuperSportCricket%5BSouthAfrica%5D
+#EXTINF:-1 tvg-id="8eda71b065" tvg-name="Australia - India - 4th Test - Day 1 (USA)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/rugby.png?raw=true" group-title="Events ➔ Cricket",06:30 PM - Australia - India - 4th Test - Day 1 (USA) - 06:30 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FWillovTV%5BUSA%5D
+#EXTINF:-1 tvg-id="11c5de4023" tvg-name="Australia - India - 4th Test - Day 1 (Australia)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/rugby.png?raw=true" group-title="Events ➔ Cricket",06:30 PM - Australia - India - 4th Test - Day 1 (Australia) - 06:30 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FFox501%5BAustralia%5D
+#EXTINF:-1 tvg-id="56addfbc3c" tvg-name="Australia - India - 4th Test - Day 1 (NewZealand)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/rugby.png?raw=true" group-title="Events ➔ Cricket",06:30 PM - Australia - India - 4th Test - Day 1 (NewZealand) - 06:30 PM - EST - (12/25/2024)
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport1%5BNewZealand%5D
